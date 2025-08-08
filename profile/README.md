@@ -30,7 +30,7 @@ We leverage a diverse set of technologies to achieve our AI transformation goals
 | Technology | Purpose | Repositories |
 |----------|---------|------------|
 | **TypeScript** | Frontend development & dashboards | Parse-Pilot, PPA-Dashboard |
-| **Python** | Data analysis & SCADA systems | SCADA4
+| **Python** | Data analysis & SCADA systems | SCADA=
 | **Jupyter Notebook** | Data science & prototyping | AzureDB |
 | **Docker & Terraform** | Cloud infrastructure & DevOps | terraform |
 
@@ -39,7 +39,7 @@ We leverage a diverse set of technologies to achieve our AI transformation goals
 ### Parse-Pilot
 Advanced data parsing and processing system for energy market analysis and optimization.
 
-### SCADA8Supervisory Control and Data Acquisition system enhanced with AI for monitoring and controlling renewable energy plants.
+### SCADA<Supervisory Control and Data Acquisition system enhanced with AI for monitoring and controlling renewable energy plants.
 
 ### PPA-Dashboard
 Comprehensive dashboard for Power Purchase Agreement (PPA) management and monitoring.
@@ -77,12 +77,12 @@ Interested in learning more about our projects or exploring collaboration opport
 - **Contact us** for business inquiries and partnership opportunities
 - **Follow our repositories** for updates on our latest developments
 
-------------------------------------------------------------------------
+---
 
 <p align="center">
 <i>Empowering a Sustainable Future through Innovative Energy Solutions</i>
-<p>
+</p>
 
 <p align="center">
 <small>&copy; 2025 GoldenPeaks Capital. All Rights Reserved.</small>
-<p>
+</p>
