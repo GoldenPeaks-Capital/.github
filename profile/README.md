@@ -23,32 +23,14 @@ Our GitHub organization represents GoldenPeaks Capital's commitment to embracing
 - **Innovate** energy trading and market analysis
 - **Improve** predictive maintenance and asset management
 
-## Our Technology Stack
+## Our Technology Focus
 
-We leverage a diverse set of technologies to achieve our AI transformation goals:
+We leverage a diverse set of cutting-edge technologies to achieve our AI transformation goals, including:
 
-| Technology | Purpose | Repositories |
-|----------|---------|------------|
-| **TypeScript** | Frontend development & dashboards | Parse-Pilot, PPA-Dashboard |
-| **Python** | Data analysis & SCADA systems | SCADA=
-| **Jupyter Notebook** | Data science & prototyping | AzureDB |
-| **Docker & Terraform** | Cloud infrastructure & DevOps | terraform |
-
-## Key Projects
-
-### Parse-Pilot
-Advanced data parsing and processing system for energy market analysis and optimization.
-
-### SCADA<Supervisory Control and Data Acquisition system enhanced with AI for monitoring and controlling renewable energy plants.
-
-### PPA-Dashboard
-Comprehensive dashboard for Power Purchase Agreement (PPA) management and monitoring.
-
-### AzureDB
-Cloud-based data intelligence and analytics platform for energy data management.
-
-### Terraform
-Infrastructure as Code (IaC) solutions for automated cloud infrastructure deployment and management.
+- **Frontend Development**: Modern TypeScript-based applications and dashboards
+- **Data Analysis**: Python-based data processing and SCADA systems
+- **Cloud Infrastructure**: Containerized applications and IaC solutions
+- **Machine Learning**: Jupyter-based analytics and Azure cloud integration
 
 ## Innovation Focus Areas
 
@@ -62,7 +44,7 @@ Our AI-driven innovation efforts are concentrated across several key domains:
 
 ## Community & Collaboration
 
-We believe in collaborative innovation and open science principles. While many of our core business systems remain private for competitive reasons, we actively seek opportunities to:
+We believe in collaborative innovation and open science principles. We actively seek opportunities to:
 
 - Contribute to open source energy projects
 - Collaborate with academic institutions and research organizations
@@ -75,7 +57,7 @@ Interested in learning more about our projects or exploring collaboration opport
 
 - **Visit our website**: [https://goldenpeakscapital.com](https://goldenpeakscapital.com)
 - **Contact us** for business inquiries and partnership opportunities
-- **Follow our repositories** for updates on our latest developments
+- **Follow our public repositories** for updates on our latest developments
 
 ---
 
@@ -84,5 +66,5 @@ Interested in learning more about our projects or exploring collaboration opport
 </p>
 
 <p align="center">
-<small>&copy; 2025 GoldenPeaks Capital. All Rights Reserved.</small>
+<small>&copy; 2025 GoldenPeaks Capital. All rights reserved.</small>
 </p>
